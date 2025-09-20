@@ -1,7 +1,7 @@
 # comp163-personal-portfolio
 # Personal / Academic Info
 full_name = "Jeremiah Young"
-student_email = "jsmith@ncat.edu"
+student_email = "jdyoung7@ncat.edu"
 hometown = "Charlotte, NC"
 graduation = "Spring 2029"
 major = "Electrical engineering"
